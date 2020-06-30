@@ -13,7 +13,8 @@
 
 # misc
 .DS_Store
-process.env
+/process.env
+.env
 .env.local
 .env.development.local
 .env.test.local
