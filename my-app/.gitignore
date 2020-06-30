@@ -12,9 +12,9 @@
 /build
 
 # misc
+process.env
 .DS_Store
-/process.env
-*.env
+.env
 .env.local
 .env.development.local
 .env.test.local
