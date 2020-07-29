@@ -2,17 +2,25 @@
     display:flex;
     justify-content: space-evenly;
     align-items: center;
-    background-color: #554640;
-    color: white;
+    background-color: #ff3333;
+    color: #ffffff;
 }
 a:hover,a:visited,a:link,a:active{
-    color: black;
+    color: #ffffff;
     text-decoration: none;
 }
 .homepagePrompt{
     display: flex;
     justify-content: center;
 }
+
+.formAddress{
+    /*Adjust margins of form here*/
+    display: flex;
+    justify-content: center;
+    width: 100%
+}
+
 .homeInput{
     display: flex;
     justify-content: center;
