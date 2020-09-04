@@ -9,7 +9,6 @@ import VoterInfo from "./pages/VoterInfo";
 import ContactUs from './pages/ContactUs';
 import Candidate from './pages/Candidate';
 import Ballot from './pages/Ballot'
-{/*Google Maps API Key: AIzaSyDiAo_PfbCBFGXVs4Y5FH3NVnot8frLF7U*/}
 function App() {
   return (
     <div className="App">
